@@ -1,0 +1,36 @@
+{D:/KISHAN FILES/ALU 8 bit TB.v} {1 {vlog -work work -stats=none {D:/KISHAN FILES/ALU 8 bit TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {D:/KISHAN FILES/8 Bit ALU/Full adder.v} {1 {vlog -work work -stats=none {D:/KISHAN FILES/8 Bit ALU/Full adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {D:/KISHAN FILES/Subtraction Module.v} {1 {vlog -work work -stats=none {D:/KISHAN FILES/Subtraction Module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module subtraction_module_8bit
+
+Top level modules:
+	subtraction_module_8bit
+
+} {} {}} {D:/KISHAN FILES/Full subtractor.v} {1 {vlog -work work -stats=none {D:/KISHAN FILES/Full subtractor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} {D:/KISHAN FILES/Addition Module.v} {1 {vlog -work work -stats=none {D:/KISHAN FILES/Addition Module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module addition_module_8bit
+
+Top level modules:
+	addition_module_8bit
+
+} {} {}}

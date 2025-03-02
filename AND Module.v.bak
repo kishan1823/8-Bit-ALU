@@ -1,0 +1,9 @@
+module AND(
+	input wire [7:0] A,
+	input wire [7:0] B,
+	output wire [7:0] Out,
+	output wire overflow
+);
+	assign overflow= A[7] & B[7];
+	assign Out = A & B;
+endmodule
